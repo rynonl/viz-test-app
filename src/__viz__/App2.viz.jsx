@@ -4,6 +4,6 @@ import App from '../App.js'
 
 export default class AppTest extends Component {
   render() {
-    return <App welcome="Dont mess with Texas" />
+    return <App welcome="Dont mess with Texas Ya HERE NOW YEEEHAAAA" />
   }
 }
